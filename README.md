@@ -4,4 +4,4 @@
 
 <img src="https://komarev.com/ghpvc/?username=Dimitrius-dev" height="32"/></h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=%00FF00&lines=Computer+science+student" height="32"/></h1>
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student" height="32"/></h1>
