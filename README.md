@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student</h3>
 
-<img src="https://komarev.com/ghpvc/?username=Dimitrius-dev" height="32"/></h1>
+<img align="center" src="https://komarev.com/ghpvc/?username=Dimitrius-dev" height="32"/></h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?color=1FF73D&lines=I+am+a+student." height="46"/></h1>
 <br>
