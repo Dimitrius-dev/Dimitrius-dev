@@ -6,4 +6,4 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?color=1FF73D&lines=I+am+a+student.+I+develop+software" height="46"/></h1>
 <br>
-<img src="https://readme-typing-svg.herokuapp.com?color=1FF73D&lines=try+to+achieve+new+discoveries." height="46"/></h1>
+<img src="https://readme-typing-svg.herokuapp.com?color=1FF73D&lines=Trying+to+reach+new+heights." height="46"/></h1>
