@@ -12,6 +12,6 @@
   <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitrius-dev&layout=compact" height="200"/></h1>
 </div>
 
-.logo {
+body{
   background-color: #ced6e0;
 }
