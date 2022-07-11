@@ -7,3 +7,5 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=1FF73D&lines=I+am+a+student." height="46"/></h1>
 <br>
 <img src="https://readme-typing-svg.herokuapp.com?color=1FF73D&lines=Trying+to+reach+new+heights." height="46"/></h1>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8" height="46"/></h1>
