@@ -8,10 +8,4 @@
 <br>
 <img src="https://readme-typing-svg.herokuapp.com?color=1FF73D&lines=Trying+to+reach+new+heights." height="46"/></h1>
 <br>
-<div class="logo">
-  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitrius-dev&layout=compact" height="200"/></h1>
-</div>
-
-body{
-  background-color: #ced6e0;
-}
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitrius-dev&layout=compact" height="200"/></h1>
